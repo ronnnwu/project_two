@@ -1,0 +1,118 @@
+1110.0076V2 [hep—exl 10 Oct 2011
+
+arXiV
+
+Pmcecdmgs 0/ the DPFrzou Conference. Pmmdmtm. RI. August 8713. 2011
+
+Measurements of the tf Cross Section and the Top Quark Mass in the
+Hadronic T + Jets Decay Channel at CDF
+
+D. Hare‘ and E. Halkiadakis
+Department 0! Physics and Astronomy, Rutgers University, New Brunswick, NJ, USA
+On behall oi the CDF Collaboration
+
+\Ve pxmunl the asst exehisive uhseivetimi cf the t; a hudxunic r + iets dcnuy dimmul using the events Exam
+1 06 TuV pp Lul iuna 2m. (101‘. we HtC'pLstHC Lhu ti eiuss seetiun Ha w its UM up quuxk mm Ev its xcquim e
+ainglu hmhume r. Me mas. hem. and uxuntly 1 Of which at. lanai. um: heist bu Luggud an
+e b |tt Thu ems seems nt,a.s\1n'm«tnt is extiee :1 Exam e puissun likulihuud hmethm hmd un thu uhsemd
+mimhei uzmhts and the p heted mmihei of signal and bunkgxuund uvuan 11h e givun ti ex
+mu.» 1.. exheeted Exam e hke huud ﬁt hem un pckuvum. pmhehihties Lalculuuxi Exam laudingrurdux signal (:0
+
+sud hsekmhhd (W+ic muhix elements
+
+ 
+
+       
+
+  
+ 
+
+   
+
+ 
+
+s scetiun Thu
+
+ 
+
+ 
+
+1. Introduction
+
+We present the ﬁrst. exel sixe obsormtion of tr? a lt‘ddt‘otttC r + jets events. With these emits, we measure
+the tf production ems tiou iii pp collisions at ﬂ : 1.06 TeV with the CDF detector [3 at. the Te "atrou at
+Fennihil as well as the ﬁrst direct imhsuremeht of the top quark mass in r + _' ~t~ events. The . , himsmeiheiits
+provide iiiipeitsiit tests of lepton miim ility and probe the top quark piepeiti ’ii a rolativoly unexplored
+ehsiiiielwhieh may he sei ~itiie to he vphssi . Additionally, the; are good examplesefphysies himsmeiheiits
+perfumed with r lepte in high jet iiiultipl g environments.
+
+ 
+
+     
+
+ 
+
+    
+
+2. Selection and Background Estimation
+
+This analyst. uses a dataset with a total integrated luminosity of 2.2 ﬂrl (tollvt'tod with the CDF detector
+between February 2002 and August 2007. The data ’ 1m ed using a hinlt’ t trigger whieh requin at
+least four jets nattli with a eslerimeter ehister with ten .verse unorgy (ET, where tniiismse refers to being,
+plft'plfttdk hi: to the hesmhiie) > 15 Gev and a total sum ET of 311 reee tnn ed jets > 175 Gev. To these
+event. we apply .v ,, eh eriteris whieh require 4jet. with Eq- > 20 Gev m tg ET (ET) > 20 Gev and a
+ltadromttally dee viiig r lepton with Eq- > 25 Gev. Additionally one of the 10“ must be identiﬁed Outing
+from a b quark (htsggiiig) 3]. Since our signal pro gm», 1) single 7 lepton, we ieto shy emit with an
+identiﬁed e1eetmii or tnllott. Hadron] lly (h rim 7 appl, r as tt‘dt't'ovi' jets with an odd number of isrged
+tn , - and low 7r“ multipl ,ity. They are .e1 ted using similar requirement. as (h , ihed iii , ept we
+require both 1 and 3 prong r - to have vi hle ET of at least 25 GeV and a visible Ink than 1.8 Gev. We
+also plseiie explieit requirement on the tr‘dttsvl‘, ,l‘ttl‘t‘gy of the 7H .~ in the .elstieii region, but we do require
+that lerihieter onorgy iii the Isolation region he 1e than 10% of the r unorgy.
+
+ 
+
+      
+
+     
+
+     
+
+ 
+          
+            
+
+   
+
+       
+
+      
+
+2.1. Neural Network for QCD Multijets Removal
+
+ 
+
+The dominant hsekgmmid for this analysis is high jet multipli ’ty QCD events with one of the jets faking
+the signature of a r lepton. To further rednee the QCD multijets background, we developed ‘dtt srtihe d1 neural
+network (NN) to distinguish between tnie tt’ 4) r + jets emits and QCD multih . emits. First, we ereste
+a sample onCD mnltJ ~t from data by. leetiiig event. with a r with no tmek .elstieii requirement. The
+NN is trained to distinguish between th eleeted QCD mnltijets emits and ti, eveiits gmmratod with the
+PYTHIA MC generator E where the T de ,dy s handled by the TA 4011A package to properly account for the
+r polarization. We use 8 variables to train the NN: ET: load jet ET, sum ET of the j and r lepton, sum
+ET of the two lowest ET jets and the r lepton, sum ET of the two liigl ET jet tmiisvei momentum of
+the W whieh dock s to a r lepton, memge 717111011101“. of all jets not identiﬁed as ﬂing from a b quark, and
+
+ 
+
+ 
+         
+  
+     
+
+ 
+
+     
+
+ 
+
+'Spuakux
+
